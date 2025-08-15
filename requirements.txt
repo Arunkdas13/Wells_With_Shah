@@ -1,4 +1,4 @@
-affine @ file:///home/conda/feedstock_root/build_artifacts/affine_1733762038348/work
+affine==2.4.0
 altair @ file:///home/conda/feedstock_root/build_artifacts/altair-split_1734244716962/work
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1733250440834/work
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1741918516150/work
@@ -116,3 +116,4 @@ win_inet_pton @ file:///D:/bld/win_inet_pton_1733130564612/work
 xyzservices @ file:///home/conda/feedstock_root/build_artifacts/xyzservices_1745598038694/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
 zstandard==0.23.0
+
