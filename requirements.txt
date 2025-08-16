@@ -10,3 +10,4 @@ matplotlib==3.10.0
 folium==0.18.0
 streamlit-folium==0.11.0
 statsmodels==0.14.4
+scipy==1.15.3
